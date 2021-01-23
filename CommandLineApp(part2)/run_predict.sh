@@ -1,0 +1,1 @@
+python predict.py /home/workspace/ImageClassifier/flowers/valid/50/image_06311.jpg /home/workspace/ImageClassifier/save_dir/ --gpu

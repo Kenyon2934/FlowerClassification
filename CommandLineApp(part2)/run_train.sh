@@ -1,0 +1,1 @@
+python train.py /home/workspace/ImageClassifier/flowers --gpu
